@@ -1,4 +1,3 @@
-
 <div align="center">
   <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnhyOGt2bWU5NW5rMGJldTR5cjF5ZmlmaXMxeGJ0czdlYnltYm9reiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H3NF3JvE1mOsOXb8l3/giphy.gif"  />
 </div>
@@ -36,7 +35,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=porkeat&" alt="porkeat" /></p>
 
-
+<div align="center">
+  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnhyOGt2bWU5NW5rMGJldTR5cjF5ZmlmaXMxeGJ0czdlYnltYm9reiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H3NF3JvE1mOsOXb8l3/giphy.gif"  />
+</div>
 <div align="center">
   <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnhyOGt2bWU5NW5rMGJldTR5cjF5ZmlmaXMxeGJ0czdlYnltYm9reiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H3NF3JvE1mOsOXb8l3/giphy.gif"  />
 </div>
@@ -57,7 +58,11 @@
 
 ###
 
-<div align="center">
+<h3 align="left">Connect with me:</h3>
+
+###
+
+<div align="left">
   <a href="https://www.facebook.com/share/1APiD3X11b/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
@@ -74,7 +79,11 @@
 
 ###
 
-<div align="center">
+<h3 align="left">Languages and Tools:</h3>
+
+###
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -110,6 +119,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" alt="xd logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
 ###
