@@ -12,12 +12,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/PorKeat/count.svg?"  />
-</div>
-
-###
-
 <h3 align="left">Connect with me:</h3>
 
 ###
@@ -113,9 +107,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PorKeat/PorKeat/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PorKeat/PorKeat/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<img src="./profile-3d-contrib/profile-green-animate.svg" />
 
 ###
