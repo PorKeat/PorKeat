@@ -87,6 +87,18 @@
 <br>
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PorKeat&theme=dark&background=000000&border=ff003c&ring=ff003c&fire=ff003c&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff003c&sideLabels=ff003c&dates=ffffff" height="180" alt="streak graph" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PorKeat&bg_color=000000&color=ff003c&line=ff003c&point=ffffff&area=true&hide_border=true&custom_title=Recent%20Activity" alt="activity graph" />
+</div>
+
+<br>
+
+<div align="center">
   <picture>
     <img alt="github 3D contribution graph" src="https://raw.githubusercontent.com/PorKeat/PorKeat/main/profile-3d-contrib/profile-red-theme.svg?v=2">
   </picture>
