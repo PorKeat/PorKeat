@@ -36,7 +36,8 @@
       <h3><img src="https://icongr.am/feather/tool.svg?size=24&color=ff003c" alt="icon" /> Tech Stack & Tools</h3>
       <p>
         <b>Cloud & Infrastructure</b><br>
-        <img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws&logoColor=ff003c" alt="AWS" />
+        <img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmMDAzYyIgZD0iTTExLjk2IDE2LjVjLTIuNDUgMC01LjEtLjk2LTcuNS0yLjgyIDIuNjUgMi4xIDUuMyAzLjEgNy42MyAzLjEgMy41IDAgNi42LTEuNTcgOS4xNy00LjYzLTIuMTYgMi43LTUuMDYgNC4zNS05LjMgNC4zNXptNS43LTguM2MtLjMgMC0uNi4xLS44LjI1VjUuNWgtMi4xdjYuMzdsLTEuMy0uODdjLS4zNi0uMjQtLjgtLjQtMS4yOC0uNC0xLjIyIDAtMi4zLjkzLTIuMyAyLjUgMCAxLjUuOTQgMi40NSAyLjEgMi40NS42IDAgMS4wNS0uMiAxLjQ1LS42M3YuNTNoMi4xdi00LjE0Yy4yLS4yMy41LS4zNy44NC0uMzcuNyAwIDEgLjUzIDEgMS40djMuMWgyLjEydi0zLjRjMC0xLjctLjkzLTIuMzYtMi4wMy0yLjM2ek05LjQ2IDEzLjFjMC0uNS4yOC0uODYuNzQtLjg2LjQgMCAuNjYuMjguNjYuNzV2MS4yN2MtLjI0LjItLjQ4LjMtLjc3LjMtLjQ3IDAtLjYzLS4zOC0uNjMtLjgyeiIvPjwvc3ZnPgo=" alt="AWS" />
+        <img src="https://img.shields.io/badge/DigitalOcean-000000?style=flat-square&logo=digitalocean&logoColor=ff003c" alt="DigitalOcean" />
         <img src="https://img.shields.io/badge/Google%20Cloud-000000?style=flat-square&logo=google-cloud&logoColor=ff003c" alt="GCP" />
         <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=ff003c" alt="Linux" />
         <img src="https://img.shields.io/badge/Terraform-000000?style=flat-square&logo=terraform&logoColor=ff003c" alt="Terraform" />
