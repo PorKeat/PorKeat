@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4a0000,b30000,ff003c&height=250&section=header&text=Seng%20Porkeat&fontSize=80&fontAlignY=38&desc=DevOps%20Engineer%20|%20Cloud%20and%20Automation%20Enthusiast&descAlignY=60&descSize=22&fontColor=ffffff" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a0000,50:b30000,100:ff003c&height=250&section=header&text=Seng%20Porkeat&fontSize=80&fontAlignY=38&desc=DevOps%20Engineer%20|%20Cloud%20and%20Automation%20Enthusiast&descAlignY=60&descSize=22&fontColor=ffffff&v=1" alt="Header" />
 </div>
 
 <div align="center">
@@ -95,5 +95,5 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff003c,b30000,4a0000&height=100&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff003c,50:b30000,100:4a0000&height=100&section=footer&v=1" alt="Footer" />
 </div>
