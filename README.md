@@ -61,8 +61,8 @@
         <b>Observability & Security</b><br>
         <img src="https://img.shields.io/badge/Prometheus-000000?style=flat-square&logo=prometheus&logoColor=ff003c" alt="Prometheus" />
         <img src="https://img.shields.io/badge/Grafana-000000?style=flat-square&logo=grafana&logoColor=ff003c" alt="Grafana" />
-        <img src="https://img.shields.io/badge/SonarQube-000000?style=flat-square&logo=sonarqube&logoColor=ff003c" alt="SonarQube" />
-        <img src="https://img.shields.io/badge/Vault-000000?style=flat-square&logo=hashicorp-vault&logoColor=ff003c" alt="HashiCorp Vault" />
+        <img src="https://img.shields.io/badge/SonarQube-000000?style=flat-square&logo=sonar&logoColor=ff003c" alt="SonarQube" />
+        <img src="https://img.shields.io/badge/Vault-000000?style=flat-square&logo=vault&logoColor=ff003c" alt="HashiCorp Vault" />
       </p>
       <p>
         <b>Programming & Scripting</b><br>
