@@ -17,23 +17,23 @@
 <table width="100%" border="0" align="center">
   <tr>
     <td width="40%" valign="top">
-      <h3>About Me</h3>
+      <h3><img src="https://icongr.am/feather/user.svg?size=24&color=00c6ff" alt="icon" /> About Me</h3>
       <ul>
-        <li>▸ Focusing on <b>Cloud Native, K8s, & CI/CD</b></li>
-        <li>▸ Learning <b>Advanced Terraform, Go</b></li>
-        <li>▸ Passionate about <b>IaC & Observability</b></li>
-        <li>▸ Ask me about <b>Docker, AWS, DevOps</b></li>
-        <li>▸ Connect: <a href="https://t.me/porkeat"><b>t.me/porkeat</b></a></li>
+        <li><img src="https://icongr.am/feather/crosshair.svg?size=14&color=00c6ff" alt="icon" /> Focusing on <b>Cloud Native, K8s, & CI/CD</b></li>
+        <li><img src="https://icongr.am/feather/book.svg?size=14&color=00c6ff" alt="icon" /> Learning <b>Advanced Terraform, Go</b></li>
+        <li><img src="https://icongr.am/feather/heart.svg?size=14&color=00c6ff" alt="icon" /> Passionate about <b>IaC & Observability</b></li>
+        <li><img src="https://icongr.am/feather/message-square.svg?size=14&color=00c6ff" alt="icon" /> Ask me about <b>Docker, AWS, DevOps</b></li>
+        <li><img src="https://icongr.am/feather/mail.svg?size=14&color=00c6ff" alt="icon" /> Connect: <a href="https://t.me/porkeat"><b>t.me/porkeat</b></a></li>
       </ul>
       <br>
-      <h3>Let's Connect</h3>
+      <h3><img src="https://icongr.am/feather/link.svg?size=24&color=00c6ff" alt="icon" /> Let's Connect</h3>
       <a href="https://www.linkedin.com/in/por-keat-06202134b"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
       <a href="https://t.me/porkeat"><img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
       <a href="https://www.facebook.com/share/1APiD3X11b/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white" alt="Facebook"></a>
       <a href="https://www.instagram.com/alex_.kgm?igsh=MXZ1dnFmYTc2dmY3dw=="><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"></a>
     </td>
     <td width="60%" valign="top">
-      <h3>Tech Stack & Tools</h3>
+      <h3><img src="https://icongr.am/feather/tool.svg?size=24&color=00c6ff" alt="icon" /> Tech Stack & Tools</h3>
       <p>
         <b>Cloud & Infrastructure</b><br>
         <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
@@ -77,7 +77,7 @@
 
 <br>
 
-### GitHub Stats
+### <img src="https://icongr.am/feather/bar-chart-2.svg?size=28&color=00c6ff" alt="icon" /> GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PorKeat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="180" alt="stats graph" />
