@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=250&section=header&text=Seng%20Porkeat&fontSize=80&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20%26%20Automation%20Enthusiast&descAlignY=60&descSize=22&fontColor=ffffff&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1a1b27,00c6ff&height=250&section=header&text=Seng%20Porkeat&fontSize=80&fontAlignY=38&desc=DevOps%20Engineer%20|%20Cloud%20and%20Automation%20Enthusiast&descAlignY=60&descSize=22&fontColor=ffffff" alt="Header" />
 </div>
 
 <div align="center">
@@ -86,15 +86,7 @@
 
 <br>
 
-### 🏆 GitHub Trophies
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=PorKeat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-  </a>
-</div>
-
-<br>
 
 <div align="center">
   <picture>
