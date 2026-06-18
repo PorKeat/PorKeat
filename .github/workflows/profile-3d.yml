@@ -19,6 +19,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: .github/theme-red.json
+      - name: Cleanup unused themes
+        run: |
+          find profile-3d-contrib -type f -name "*.svg" ! -name "profile-red-theme.svg" -delete
       - name: Commit & Push
         run: |
           git config user.name github-actions
