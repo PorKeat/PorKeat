@@ -80,8 +80,8 @@
 ### <img src="https://icongr.am/feather/bar-chart-2.svg?size=28&color=ff003c" alt="icon" /> GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PorKeat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&bg_color=000000&title_color=ff003c&text_color=ffffff&icon_color=ff003c&border_color=ff003c&hide_border=false&order=1" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PorKeat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&bg_color=000000&title_color=ff003c&text_color=ffffff&icon_color=ff003c&border_color=ff003c&hide_border=false&order=2" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PorKeat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&bg_color=000000&title_color=ff003c&text_color=ffffff&icon_color=ff003c&border_color=ff003c&hide_border=false&v=1" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PorKeat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&bg_color=000000&title_color=ff003c&text_color=ffffff&icon_color=ff003c&border_color=ff003c&hide_border=false&v=1" height="180" alt="languages graph" />
 </div>
 
 <br>
