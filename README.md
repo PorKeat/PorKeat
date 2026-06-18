@@ -114,14 +114,6 @@
 
 <div align="center">
   <picture>
-    <img alt="Cyber Snake Animation" src="https://raw.githubusercontent.com/PorKeat/PorKeat/main/animations/github-snake-dark.svg">
-  </picture>
-</div>
-
-<br>
-
-<div align="center">
-  <picture>
     <img alt="github 3D contribution graph" src="https://raw.githubusercontent.com/PorKeat/PorKeat/main/profile-3d-contrib/profile-red-theme.svg?v=2">
   </picture>
 </div>
