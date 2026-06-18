@@ -17,13 +17,13 @@
 <table width="100%" border="0" align="center">
   <tr>
     <td width="40%" valign="top">
-      <h3><img src="https://icongr.am/feather/user.svg?size=24&color=ff003c" alt="icon" /> About Me</h3>
+      <h3><img src="https://icongr.am/feather/user.svg?size=24&color=ff003c" alt="icon" /> Professional Profile</h3>
       <ul>
-        <li><img src="https://icongr.am/feather/crosshair.svg?size=14&color=ff003c" alt="icon" /> Focusing on <b>Cloud Native, K8s, & CI/CD</b></li>
-        <li><img src="https://icongr.am/feather/book.svg?size=14&color=ff003c" alt="icon" /> Learning <b>Advanced Terraform, Go</b></li>
-        <li><img src="https://icongr.am/feather/heart.svg?size=14&color=ff003c" alt="icon" /> Passionate about <b>IaC & Observability</b></li>
-        <li><img src="https://icongr.am/feather/message-square.svg?size=14&color=ff003c" alt="icon" /> Ask me about <b>Docker, AWS, DevOps</b></li>
-        <li><img src="https://icongr.am/feather/mail.svg?size=14&color=ff003c" alt="icon" /> Connect: <a href="https://t.me/porkeat"><b>t.me/porkeat</b></a></li>
+        <li><img src="https://icongr.am/feather/briefcase.svg?size=14&color=ff003c" alt="icon" /> <b>DevOps & Cloud Engineer</b> specializing in highly available infrastructure.</li>
+        <li><img src="https://icongr.am/feather/crosshair.svg?size=14&color=ff003c" alt="icon" /> Architecting & Automating <b>CI/CD Pipelines & Cloud Native deployments</b>.</li>
+        <li><img src="https://icongr.am/feather/terminal.svg?size=14&color=ff003c" alt="icon" /> Managing <b>Infrastructure as Code (IaC)</b> using Terraform & Ansible.</li>
+        <li><img src="https://icongr.am/feather/lock.svg?size=14&color=ff003c" alt="icon" /> Implementing secure secret management with <b>HashiCorp Vault</b>.</li>
+        <li><img src="https://icongr.am/feather/mail.svg?size=14&color=ff003c" alt="icon" /> Connect: <a href="https://t.me/porkeat"><b>t.me/porkeat</b></a> | <a href="mailto:alexkgm2412@gmail.com"><b>alexkgm2412@gmail.com</b></a></li>
       </ul>
       <br>
       <h3><img src="https://icongr.am/feather/link.svg?size=24&color=ff003c" alt="icon" /> Let's Connect</h3>
