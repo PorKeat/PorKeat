@@ -88,7 +88,7 @@
 
 <div align="center">
   <picture>
-    <img alt="github 3D contribution graph" src="https://raw.githubusercontent.com/PorKeat/PorKeat/main/profile-3d-contrib/profile-red-theme.svg?v=1">
+    <img alt="github 3D contribution graph" src="https://raw.githubusercontent.com/PorKeat/PorKeat/main/profile-3d-contrib/profile-red-theme.svg?v=2">
   </picture>
 </div>
 
