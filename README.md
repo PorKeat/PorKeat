@@ -82,10 +82,10 @@
 
 <div align="center">
   <a href="https://github.com/PorKeat/a8s-jenkins">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PorKeat&repo=a8s-jenkins&theme=dark&bg_color=000000&title_color=ff003c&text_color=ffffff&icon_color=ff003c&border_color=ff003c" width="470" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PorKeat&repo=a8s-jenkins&theme=dark&bg_color=000000&title_color=ff003c&text_color=ffffff&icon_color=ff003c&border_color=ff003c&v=5" width="470" />
   </a>
   <a href="https://github.com/PorKeat/a8s-vault">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PorKeat&repo=a8s-vault&theme=dark&bg_color=000000&title_color=ff003c&text_color=ffffff&icon_color=ff003c&border_color=ff003c" width="470" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PorKeat&repo=a8s-vault&theme=dark&bg_color=000000&title_color=ff003c&text_color=ffffff&icon_color=ff003c&border_color=ff003c&v=5" width="470" />
   </a>
 </div>
 
