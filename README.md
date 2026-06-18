@@ -80,20 +80,20 @@
 ### <img src="https://icongr.am/feather/bar-chart-2.svg?size=28&color=ff003c" alt="icon" /> GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PorKeat&hide_title=true&hide_rank=false&show_icons=true&disable_animations=false&bg_color=000000&title_color=ff003c&text_color=ffffff&icon_color=ff003c&border_color=ff003c&hide_border=false&v=3" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PorKeat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&bg_color=000000&title_color=ff003c&text_color=ffffff&icon_color=ff003c&border_color=ff003c&hide_border=false&v=3" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PorKeat&hide_title=false&hide_rank=false&show_icons=true&disable_animations=false&bg_color=000000&title_color=ff003c&text_color=ffffff&icon_color=ff003c&border_color=ff003c&hide_border=false&v=4" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PorKeat&theme=dark&background=000000&border=ff003c&ring=ff003c&fire=ff003c&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff003c&sideLabels=ff003c&dates=ffffff&v=4" alt="streak graph" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PorKeat&theme=dark&background=000000&border=ff003c&ring=ff003c&fire=ff003c&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff003c&sideLabels=ff003c&dates=ffffff&v=3" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PorKeat&locale=en&hide_title=false&layout=compact&card_width=962&langs_count=5&bg_color=000000&title_color=ff003c&text_color=ffffff&icon_color=ff003c&border_color=ff003c&hide_border=false&v=4" alt="languages graph" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PorKeat&bg_color=000000&color=ff003c&line=ff003c&point=ffffff&area=true&hide_border=true&custom_title=Recent%20Activity" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PorKeat&bg_color=000000&color=ff003c&line=ff003c&point=ffffff&area=true&hide_border=true&custom_title=Recent%20Activity&v=4" alt="activity graph" />
 </div>
 
 <br>
