@@ -36,40 +36,40 @@
       <h3>🛠️ Tech Stack & Tools</h3>
       <p>
         <b>Cloud & Infrastructure</b><br>
-        <img src="https://img.shields.io/badge/AWS-1a1b27?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS" />
-        <img src="https://img.shields.io/badge/GCP-1a1b27?style=for-the-badge&logo=google-cloud&logoColor=4285F4" alt="GCP" />
-        <img src="https://img.shields.io/badge/Linux-1a1b27?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
-        <img src="https://img.shields.io/badge/Terraform-1a1b27?style=for-the-badge&logo=terraform&logoColor=844FBA" alt="Terraform" />
-        <img src="https://img.shields.io/badge/NGINX-1a1b27?style=for-the-badge&logo=nginx&logoColor=009639" alt="Nginx" />
+        <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+        <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP" />
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+        <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+        <img src="https://img.shields.io/badge/NGINX-%23009639.svg?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
       </p>
       <p>
         <b>Containers & Orchestration</b><br>
-        <img src="https://img.shields.io/badge/Docker-1a1b27?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
-        <img src="https://img.shields.io/badge/Kubernetes-1a1b27?style=for-the-badge&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" />
-        <img src="https://img.shields.io/badge/Helm-1a1b27?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
+        <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+        <img src="https://img.shields.io/badge/Helm-%230F1689.svg?style=flat-square&logo=helm&logoColor=white" alt="Helm" />
       </p>
       <p>
         <b>CI/CD, GitOps & Automation</b><br>
-        <img src="https://img.shields.io/badge/ArgoCD-1a1b27?style=for-the-badge&logo=argo&logoColor=EF7B4D" alt="ArgoCD" />
-        <img src="https://img.shields.io/badge/GitHub_Actions-1a1b27?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
-        <img src="https://img.shields.io/badge/GitLab_CI-1a1b27?style=for-the-badge&logo=gitlab&logoColor=FC6D26" alt="GitLab CI" />
-        <img src="https://img.shields.io/badge/Jenkins-1a1b27?style=for-the-badge&logo=jenkins&logoColor=D24939" alt="Jenkins" />
-        <img src="https://img.shields.io/badge/Ansible-1a1b27?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+        <img src="https://img.shields.io/badge/ArgoCD-%23EF7B4D.svg?style=flat-square&logo=argo&logoColor=white" alt="ArgoCD" />
+        <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+        <img src="https://img.shields.io/badge/GitLab%20CI-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab CI" />
+        <img src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
+        <img src="https://img.shields.io/badge/Ansible-%231A1918.svg?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" />
       </p>
       <p>
         <b>Observability & Security</b><br>
-        <img src="https://img.shields.io/badge/Prometheus-1a1b27?style=for-the-badge&logo=prometheus&logoColor=E6522C" alt="Prometheus" />
-        <img src="https://img.shields.io/badge/Grafana-1a1b27?style=for-the-badge&logo=grafana&logoColor=F46800" alt="Grafana" />
-        <img src="https://img.shields.io/badge/SonarQube-1a1b27?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD" alt="SonarQube" />
-        <img src="https://img.shields.io/badge/Vault-1a1b27?style=for-the-badge&logo=hashicorp-vault&logoColor=white" alt="HashiCorp Vault" />
+        <img src="https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
+        <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
+        <img src="https://img.shields.io/badge/SonarQube-%234E9BCD.svg?style=flat-square&logo=sonarqube&logoColor=white" alt="SonarQube" />
+        <img src="https://img.shields.io/badge/Vault-%23000000.svg?style=flat-square&logo=hashicorp-vault&logoColor=white" alt="HashiCorp Vault" />
       </p>
       <p>
         <b>Programming & Scripting</b><br>
-        <img src="https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-        <img src="https://img.shields.io/badge/Bash-1a1b27?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25" alt="Bash" />
-        <img src="https://img.shields.io/badge/Go-1a1b27?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Go" />
-        <img src="https://img.shields.io/badge/Java-1a1b27?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" />
-        <img src="https://img.shields.io/badge/Node.js-1a1b27?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
+        <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
+        <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white" alt="Go" />
+        <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
       </p>
     </td>
   </tr>
@@ -90,9 +90,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PorKeat/PorKeat/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PorKeat/PorKeat/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PorKeat/PorKeat/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PorKeat/PorKeat/output/github-contribution-grid-snake-dark.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PorKeat/PorKeat/output/github-contribution-grid-snake.svg?v=1">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PorKeat/PorKeat/output/github-contribution-grid-snake.svg?v=1">
   </picture>
 </div>
 
