@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://profilo.sengporkeat.com">
-    <img src="https://profilo.sengporkeat.com/api/svg/premium-hero?name=Seng+Porkeat&titles=DevOps+Engineer,Cloud+Architect,Automation+Enthusiast&location=Cambodia&theme=dark&accent1=ff003c&accent2=b30000&accent3=4a0000&style=gradient&avatarUrl=https://github.com/PorKeat.png" alt="Profile Hero Banner" width="100%" />
+    <img src="https://profilo.sengporkeat.com/api/svg/premium-hero?name=Seng+Porkeat&titles=DevOps+Engineer,Cloud+Architect,Automation+Enthusiast&location=Cambodia&email=alexkgm2412@gmail.com&education=IT+Professional+at+ISTAD&portfolio=https://sengporkeat.com&skills=Backend,Frontend,DevOps,UXUI&theme=dark&accent1=ff003c&accent2=b30000&accent3=4a0000&style=gradient&avatarUrl=https://github.com/PorKeat.png" alt="Profile Hero Banner" width="100%" />
   </a>
 </div>
 
