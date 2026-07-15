@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a0000,50:b30000,100:ff003c&height=250&section=header&text=My%20Profile&fontSize=80&fontAlignY=38&desc=DevOps%20Engineer%20|%20Cloud%20and%20Automation%20Enthusiast&descAlignY=60&descSize=22&fontColor=ffffff&v=1" alt="Header" />
+</div>
+
+<div align="center">
   <a href="https://profilo.sengporkeat.com">
     <img src="https://profilo.sengporkeat.com/api/svg/premium-hero?name=Seng+Porkeat&titles=DevOps+Engineer,Cloud+Architect,Automation+Enthusiast&location=Cambodia&theme=dark&accent1=ff003c&accent2=b30000&accent3=4a0000&style=gradient&avatarUrl=https://github.com/PorKeat.png" alt="Profile Hero Banner" width="100%" />
   </a>
